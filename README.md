@@ -13,3 +13,7 @@ RobinHood is an internet stock trading platform that offers unlumited commission
 Another Millennial-friendly difference between RobinHood and the others is that RobinHood accounts have no minimum deposit. In 2018, RobinHood developed its own clearing operation (See below for link explaining this.). Last December, RobinHood announced that they plan to offer no-fee, no-minimum checking accounts with a 3% interest paid on account balances, a far better deal than established banks.
 
 What do they do?`
+
+
+
+Add 
