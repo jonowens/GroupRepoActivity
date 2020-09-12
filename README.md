@@ -1,1 +1,3 @@
-# GroupRepoActivity
+## GroupRepoActivity
+# Prognosis for Robinhood
+In the very near future, Robinhood will have worked out the kinks in its trading platform and will increase in status as more people migrate to the platform. The ease of use will be a big factor in pulling the uninitiated into the stock market. One of two things are likely to happen. One Robin grows big and transforms into a full fledged online investment company. In the meanwhile, Robinhood will face regulatory challenges and likely customer lawsuits related to how it places trades and how it receives compensation.
