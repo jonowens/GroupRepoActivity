@@ -1,5 +1,10 @@
 # GroupRepoActivity
-### Robinhood
+
+## A Disruptor in Consumer Trading and Lending
+![Robinhood Logo](./images/RobinhoodLogo.png)
+
+---
+
 ## Description
 - What is the Background of your company
 -  What do they do?
@@ -14,6 +19,15 @@ Another Millennial-friendly difference between RobinHood and the others is that 
 
 What do they do?`
 
+---
+
+## Contributors
+* Jonathan Owens
+*
+*
+*
+*
+
+---
 
 
-Add 
