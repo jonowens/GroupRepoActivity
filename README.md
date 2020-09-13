@@ -21,13 +21,17 @@ Contributors
 
 ## A Disruptor in Consumer Trading and Lending
 
-RobinHood is an internet stock trading platform that offers unlumited commission free trading for 
--   STOCKS IN U.S. public comp
-Another Millennial-friendly difference between RobinHood and the others is that RobinHood accounts have no minimum deposit. In 2018, RobinHood developed its own clearing operation (See below for link explaining this.). Last December, RobinHood announced that they plan to offer no-fee, no-minimum checking accounts with a 3% interest paid on account balances, a far better deal than established banks. [3]
+What is the background of your company?
 
-What do they do?`
+- RobinHood is an internet stock trading platform that offers unlimited commission free trading for 
+    - Stocks in U.S. public companies,
+    - ETF's (exchange traded funds),
+    - Stock options, and
+    - Cryptocurrencies [3]
 
-- 
+What do they do?
+
+- Another Millennial-friendly difference between RobinHood and the others is that RobinHood accounts have no minimum deposit. In 2018, RobinHood developed its own clearing operation (See below for link explaining this.). Last December, RobinHood announced that they plan to offer no-fee, no-minimum checking accounts with a 3% interest paid on account balances, a far better deal than established banks. [3]
 
 Who are the competitors?
 
